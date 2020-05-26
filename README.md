@@ -1,6 +1,6 @@
 
 <p  align="center">
-<img  src="./assets/forum.png"  width="400"  alt="Front-end Brasil">
+<img  src="./assets/forum.png"  width="400"  alt="Carioca Front-end">
 </p>
 
 <h1  align="center">Fórum</h1>
