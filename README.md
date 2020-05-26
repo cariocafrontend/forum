@@ -1,6 +1,6 @@
 
 <p  align="center">
-<img  src="https://avatars0.githubusercontent.com/u/65979933?s=200&v=4"  width="400"  alt="Front-end Brasil">
+<img  src="./assets/forum.png"  width="400"  alt="Front-end Brasil">
 </p>
 
 <h1  align="center">Fórum</h1>
@@ -27,11 +27,6 @@ e pronto! Só criar sua dúvida ou debate xD
  :heavy_exclamation_mark: Proibido preconceito de gênero
 
   
-
-  
-
-
- 
   
 
 ## Repositórios do Carioca Front-end
